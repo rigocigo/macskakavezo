@@ -2,6 +2,24 @@ body{
     background-image: url('hatter.png');
 }
 
+
+.udvozles{
+    margin: auto;
+    text-align: center;
+    color: #fcfcfc;
+    font-size: 90px;
+    font-style: italic;
+    padding: 30px;
+}
+.alcim{
+    margin: auto;
+    text-align: center;
+    color: #fcfcfc;
+    font-size: 70px;
+    font-style: italic;
+    padding: 30px;
+}
+
 ul {
     list-style-type: none;
     margin: 20px;
