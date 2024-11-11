@@ -67,13 +67,14 @@ ul {
     background-color: #111;
   }
 .macsek{
-  display: flex;
-
+  display: inline-block;
+  padding: 1rem 1rem;
+  vertical-align: middle;
 }
 .macskakep{
   height: 500px;
-  padding: 30px;
-  border: 20px black ;
+  border: solid 5px black ;
+  
 }
   
 .kezdolap1{
@@ -98,9 +99,17 @@ ul {
 
 .cicamica{
   margin: auto;
-    background-color: #37251b;
-    padding: 40px;
-    color: #fcfcfc;
-    text-align: center;
-    
+  background: rgba(0, 128, 0, 0.3);
+  padding: 60px;
+  color:  #37251b;
+  text-align: center;
+  font-size: 40px;
+}
+.nagy{
+  color: #fcfcfc;
+  background-color: #37251b;
+  margin: 1rem;
+  padding: 2rem 2rem;
+  text-align: center;
+
 }
