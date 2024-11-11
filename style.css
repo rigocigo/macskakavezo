@@ -30,6 +30,16 @@ body{
     padding: 30px;
     padding-bottom: 370px;
 }
+.udvozleskisebb{
+    margin: auto;
+    text-align: center;
+    color: #fcfcfc;
+    font-size: 90px;
+    font-style: italic;
+    padding: 30px;
+    padding-top: 200px;
+    
+}
 .alcimkisebb{
         margin: auto;
         text-align: center;
@@ -92,9 +102,11 @@ ul {
     padding: 14px 16px;
     text-decoration: none;
 }
-.asztalfoglalas{
+.asztalfoglalasos{
     margin: auto;
     display: flex;
+    border: solid 10px black;
+    border-radius: 10px;
 }
 
 .cicamica{
@@ -111,5 +123,4 @@ ul {
   margin: 1rem;
   padding: 2rem 2rem;
   text-align: center;
-
 }
