@@ -1,8 +1,6 @@
 body{
     background-image: url('hatter.png');
 }
-
-
 .udvozles{
     margin: auto;
     text-align: center;
@@ -10,6 +8,18 @@ body{
     font-size: 90px;
     font-style: italic;
     padding: 30px;
+    padding-top: 300px;
+    
+}
+.cimek{
+    margin: auto;
+    text-align: center;
+    color: #fcfcfc;
+    font-size: 90px;
+    font-style: italic;
+    padding: 30px;
+
+    
 }
 .alcim{
     margin: auto;
@@ -18,6 +28,7 @@ body{
     font-size: 70px;
     font-style: italic;
     padding: 30px;
+    padding-bottom: 370px;
 }
 
 ul {
@@ -56,3 +67,26 @@ ul {
   border: 20px black ;
 }
   
+.kezdolap1{
+    margin: auto;
+    background-color: #37251b;
+    padding: 15px;
+    color: #fcfcfc;
+    text-align: center;
+    font-size: 25px;
+}
+.asztalfoglalas{
+    display: block;
+    color: #d2c1b0;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.cicamica{
+  margin: auto;
+    background-color: #37251b;
+    padding: 40px;
+    color: #fcfcfc;
+    text-align: center;
+    
+}
