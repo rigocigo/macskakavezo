@@ -80,10 +80,15 @@ ul {
   display: inline-block;
   padding: 1rem 1rem;
   vertical-align: middle;
+
+}
+.macsek p{
+  font-size: 25px;
 }
 .macskakep{
-  height: 500px;
+  height: 800px;
   border: solid 5px black ;
+  width: 500px;
   
 }
   
