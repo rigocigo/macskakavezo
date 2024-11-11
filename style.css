@@ -30,6 +30,15 @@ body{
     padding: 30px;
     padding-bottom: 370px;
 }
+.alcimkisebb{
+        margin: auto;
+        text-align: center;
+        color: #fcfcfc;
+        font-size: 70px;
+        font-style: italic;
+        padding: 30px;
+        padding-bottom: 30px;
+}
 
 ul {
     list-style-type: none;
@@ -83,6 +92,8 @@ ul {
     text-decoration: none;
 }
 .asztalfoglalas{
+    margin: auto;
+    display: flex;
 }
 
 .cicamica{
