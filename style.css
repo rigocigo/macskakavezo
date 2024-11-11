@@ -129,3 +129,48 @@ ul {
   padding: 2rem 2rem;
   text-align: center;
 }
+
+.fodiv{
+    margin: 1rem;
+  padding: 2rem 2rem;
+  text-align: center;
+}
+
+.szolgaltatasok{
+    display: inline-block;
+    color: #fcfcfc;
+    background-color: #37251b;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    padding: 20px;
+    font-size: 30px;
+    border: solid 5px #d2c1b0;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.elerhetosegek{
+    background-color: #37251b;
+    color: #fcfcfc;
+    border: #d2c1b0 solid 5px;
+    border-radius: 15px;
+    width: 1200px;
+    height: 600px;
+    margin: auto;
+    padding: 50px;
+    font-size: 70px;
+}
+
+.telo{
+    width: 100px;
+    height: 100px;
+}
+
+a{
+    display: block;
+    color: #fcfcfc;
+    text-align: center;
+    padding: 14px 16px;
+    
+}
