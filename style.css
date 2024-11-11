@@ -57,7 +57,16 @@ ul {
   li a:hover {
     background-color: #111;
   }
+.macsek{
+  display: flex;
 
+}
+.macskakep{
+  height: 500px;
+  padding: 30px;
+  border: 20px black ;
+}
+  
 .kezdolap1{
     margin: auto;
     background-color: #37251b;
@@ -74,5 +83,13 @@ ul {
     text-decoration: none;
 }
 .asztalfoglalas{
+}
+
+.cicamica{
+  margin: auto;
+    background-color: #37251b;
+    padding: 40px;
+    color: #fcfcfc;
+    text-align: center;
     
 }
