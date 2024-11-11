@@ -46,5 +46,13 @@ ul {
   li a:hover {
     background-color: #111;
   }
+.macsek{
+  display: flex;
 
+}
+.macskakep{
+  height: 500px;
+  padding: 30px;
+  border: 20px black ;
+}
   
