@@ -173,3 +173,20 @@ a{
     text-align: center;
     padding: 14px 16px;
 }
+
+.ital{
+  color: #fcfcfc;
+  background-color: #37251b;
+  margin: 1rem;
+  padding: 2rem 2rem;
+  text-align: center;
+}
+
+.kel{
+  margin: auto;
+}
+
+.klo{
+  margin: auto;
+  text-align: center;
+}
